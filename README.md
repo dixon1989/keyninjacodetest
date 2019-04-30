@@ -3,7 +3,7 @@
 Using Node.js command line
 -- node index
 
-have mongoDB installed on local.
+have mongoDB install on local.
 open another terminal command to keep the mongo running
 -- mongod
 
