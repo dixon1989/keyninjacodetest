@@ -1,6 +1,8 @@
 // api-routes.js
+
 // Initialize express router
 let router = require('express').Router();
+
 // Set default API response
 router.get('/', function (req, res) {
     res.json({
@@ -8,7 +10,8 @@ router.get('/', function (req, res) {
         message: 'Welcome to KeyNinja Simple Tests!',
     });
 });
-// Import contact controller
+
+// Import customer details controller
 var customerController = require('./customerController');
 // Contact routes
 router.route('/customer')

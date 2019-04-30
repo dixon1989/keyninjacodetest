@@ -1,4 +1,4 @@
-// JavaScript source code
+
 // customerController.js
 // Import customerModel
 Customer = require('./customerModel');
