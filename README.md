@@ -1,5 +1,9 @@
 # keyninjacodetest
 
+Requirements
+Node.js
+MongoDB
+
 Using Node.js command line running on localhost:8080
 -- node index
 
