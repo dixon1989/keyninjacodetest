@@ -1,6 +1,6 @@
 # keyninjacodetest
 
-Using Node.js command line
+Using Node.js command line running on localhost:8080
 -- node index
 
 have mongoDB install on local.
