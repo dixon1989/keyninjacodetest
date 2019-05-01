@@ -13,3 +13,5 @@ open another terminal command to keep the mongo running
 
 PostMan Test
 /api/customer
+
+https://documenter.getpostman.com/view/5284266/S1Lr5BMr
